@@ -21,7 +21,7 @@ LIMITS = {
     "channel_delete": (2, 10),
     "channel_rename": (3, 10),
 }
-1515011506247565482 = 0  # Replace with log channel ID
+1515011506247565482 == 0  # Replace with log channel ID
 # =========================
 # TRACKING
 # =========================
