@@ -61,7 +61,7 @@ async def log(guild, message):
 async def on_ready():
     await bot.change_presence(
         status=discord.Status.dnd,
-        activity=discord.Game("Anti-Nuke Protection")
+        activity=discord.Game("discord.gg/evander")
     )
 
     print(f"Logged in as {bot.user}")
