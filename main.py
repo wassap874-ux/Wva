@@ -17,9 +17,9 @@ WHITELIST = {
 }
 PUNISHMENT = "ban"  # ban, kick
 LIMITS = {
-    "channel_create": (3, 10),
-    "channel_delete": (2, 10),
-    "channel_rename": (3, 10),
+    "channel_create": (1, 10),
+    "channel_delete": (1, 10),
+    "channel_rename": (1, 10),
 }
 1515011506247565482 == 0  # Replace with log channel ID
 # =========================
